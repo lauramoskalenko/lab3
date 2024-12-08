@@ -1,0 +1,122 @@
+﻿[
+    {
+        "ID": 1,
+        "Title": "Inception",
+        "Genre": "Science Fiction",
+        "Director": "Christopher Nolan",
+        "Year": 2010,
+        "DurationMinutes": 148
+    },
+    {
+        "ID": 2,
+        "Title": "Titanic",
+        "Genre": "Romance",
+        "Director": "James Cameron",
+        "Year": 1997,
+        "DurationMinutes": 195
+    },
+    {
+        "ID": 3,
+        "Title": "The Dark Knight",
+        "Genre": "Action",
+        "Director": "Christopher Nolan",
+        "Year": 2008,
+        "DurationMinutes": 152
+    },
+    {
+        "ID": 4,
+        "Title": "Interstellar",
+        "Genre": "Science Fiction",
+        "Director": "Christopher Nolan",
+        "Year": 2014,
+        "DurationMinutes": 169
+    },
+    {
+        "ID": 5,
+        "Title": "The Godfather",
+        "Genre": "Crime",
+        "Director": "Francis Ford Coppola",
+        "Year": 1972,
+        "DurationMinutes": 175
+    },
+    {
+        "ID": 6,
+        "Title": "The Shawshank Redemption",
+        "Genre": "Drama",
+        "Director": "Frank Darabont",
+        "Year": 1994,
+        "DurationMinutes": 142
+    },
+    {
+        "ID": 7,
+        "Title": "The Matrix",
+        "Genre": "Science Fiction",
+        "Director": "The Wachowskis",
+        "Year": 1999,
+        "DurationMinutes": 136
+    },
+    {
+        "ID": 8,
+        "Title": "Pulp Fiction",
+        "Genre": "Crime",
+        "Director": "Quentin Tarantino",
+        "Year": 1994,
+        "DurationMinutes": 154
+    },
+    {
+        "ID": 9,
+        "Title": "Forrest Gump",
+        "Genre": "Drama",
+        "Director": "Robert Zemeckis",
+        "Year": 1994,
+        "DurationMinutes": 142
+    },
+    {
+        "ID": 10,
+        "Title": "Avengers: Endgame",
+        "Genre": "Action",
+        "Director": "Anthony and Joe Russo",
+        "Year": 2019,
+        "DurationMinutes": 181
+    },
+    {
+        "ID": 11,
+        "Title": "The Lion King",
+        "Genre": "Animation",
+        "Director": "Roger Allers and Rob Minkoff",
+        "Year": 1994,
+        "DurationMinutes": 88
+    },
+    {
+        "ID": 12,
+        "Title": "Parasite",
+        "Genre": "Thriller",
+        "Director": "Bong Joon-ho",
+        "Year": 2019,
+        "DurationMinutes": 132
+    },
+    {
+        "ID": 13,
+        "Title": "Gladiator",
+        "Genre": "Action",
+        "Director": "Ridley Scott",
+        "Year": 2000,
+        "DurationMinutes": 155
+    },
+    {
+        "ID": 14,
+        "Title": "The Avengers",
+        "Genre": "Action",
+        "Director": "Joss Whedon",
+        "Year": 2012,
+        "DurationMinutes": 143
+    },
+    {
+        "ID": 15,
+        "Title": "Joker",
+        "Genre": "Drama",
+        "Director": "Todd Phillips",
+        "Year": 2019,
+        "DurationMinutes": 122
+    }
+]
